@@ -1,3 +1,4 @@
 decide wbat business to order from
 figure out what pizza you want
 call the business
+talk to the employee and ask for specials
