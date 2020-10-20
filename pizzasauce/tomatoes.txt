@@ -4,7 +4,16 @@ make sure to only pick the best ones!
 use a blender
 clean the blades...
 place oregano
+<<<<<<< HEAD
 ads
 afdaga
 gdga
 dfadfa
+=======
+eat organo
+love cars 
+batman 
+lol
+>>>>>>> 020bed044a8f13011f4b297e0cbf6a38b8a74a4e
+
+get em coach
